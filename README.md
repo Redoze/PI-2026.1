@@ -2,22 +2,4 @@
 
 Repositório destinado para o projeto acadêmico da disciplina de Processamento de Imagem, UFRPE - 2026.1
 
-## Execução
-
-### 1. ...
-
-...
-```bash
-...
-```
-
-### 2. ...
-
-# ...
-```bash
-...
-```
-
-### 3. ...
-python SIR.py
-```
+Projeto realizado em junho de 2026.
